@@ -1,0 +1,5 @@
+<map id="TabuSearch::updateTabu" name="TabuSearch::updateTabu">
+<area shape="rect" id="node1" title="Update tabu elements after every iteration of algorithm. The expiry time of forbidden actions is decr..." alt="" coords="267,5,432,32"/>
+<area shape="rect" id="node2" href="$d9/db2/class_tabu_search.html#a44d766d6285b7da36fb20c4d77b18a01" title="Main algorithm loop." alt="" coords="103,5,219,32"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,55,32"/>
+</map>

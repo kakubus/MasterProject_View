@@ -1,0 +1,18 @@
+<map id="Algorithm::modify" name="Algorithm::modify">
+<area shape="rect" id="node1" title="Modify solution. &#45; used in TS." alt="" coords="5,239,128,266"/>
+<area shape="rect" id="node2" href="$d6/da2/class_algorithm.html#ac7f2a89c288fad937cefe7da48e1f00b" title="Method used for exchange vertices in solution." alt="" coords="209,62,349,89"/>
+<area shape="rect" id="node3" href="$d2/d9a/struct_method_result.html#a29229b072df488c4adeb16b5962706c4" title=" " alt="" coords="477,18,603,45"/>
+<area shape="rect" id="node4" href="$d6/da2/class_algorithm.html#af07180f5b1519259816757e6a6abfd0c" title=" " alt="" coords="430,106,650,133"/>
+<area shape="rect" id="node5" href="$d6/da2/class_algorithm.html#ad2ee4e687468c2fcbd3c01f465469aa4" title="Function used for exchange, swap and move methods." alt="" coords="433,163,647,190"/>
+<area shape="rect" id="node6" href="$da/d87/class_problem.html#a848e86855449e8d567edc48f5a793dbc" title="Method used for return pointer to existing vehicle list." alt="" coords="698,214,858,241"/>
+<area shape="rect" id="node8" href="$dd/df6/class_vehicle.html#a9943ca3098e7993a3c46a3e75a39610b" title="Return actual capacity of vehicle." alt="" coords="470,315,611,342"/>
+<area shape="rect" id="node9" href="$dd/df6/class_vehicle.html#a7e388649af7dc8e07f707a4462126f5b" title=" " alt="" coords="229,417,329,443"/>
+<area shape="rect" id="node10" href="$df/da1/struct_location.html#a247b67871a251a4086b2ff92bfc02903" title=" " alt="" coords="182,467,376,494"/>
+<area shape="rect" id="node11" href="$dd/d4f/class_solution.html#a9767aa5e9b2e0e0ce01b9c895d404a29" title=" " alt="" coords="176,265,382,291"/>
+<area shape="rect" id="node12" href="$dd/df6/class_vehicle.html#a9037a9de516f8271b33135f786647192" title=" " alt="" coords="176,366,382,393"/>
+<area shape="rect" id="node7" href="$dc/db8/_utils_fcn_8cpp.html#a2bfdea9260301d9292a7ab002eeb4645" title=" " alt="" coords="739,163,817,190"/>
+<area shape="rect" id="node13" href="$dd/df6/class_vehicle.html#a981322b4fc2ba14586b45e03115491c0" title="Return property of vehicle maximum capacity." alt="" coords="441,467,639,494"/>
+<area shape="rect" id="node14" href="$dd/df6/class_vehicle.html#add3c94e41b8d7708872af9487ab5a0e9" title="Set defined value of actual vehicle capacity." alt="" coords="470,518,611,545"/>
+<area shape="rect" id="node15" href="$dd/df6/class_vehicle.html#aba606f5a1911e4bdce1ab895280ddb29" title="Try take a load into vehicle (if it&#39;s impossible, return false)" alt="" coords="478,366,603,393"/>
+<area shape="rect" id="node16" href="$dd/df6/class_vehicle.html#a8905b634f2ece5152560d049d5a1084a" title="Make free vehicle capacity (capacity = 0)" alt="" coords="485,417,595,443"/>
+</map>

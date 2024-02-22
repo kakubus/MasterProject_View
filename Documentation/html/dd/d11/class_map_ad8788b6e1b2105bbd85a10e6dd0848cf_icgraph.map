@@ -1,0 +1,4 @@
+<map id="Map::showMap" name="Map::showMap">
+<area shape="rect" id="node1" title="Returns information about map." alt="" coords="163,5,272,32"/>
+<area shape="rect" id="node2" href="$dd/d11/class_map.html#a4c9938ccc0bdd43d57ac323bc5ecd876" title="Returns and print information about map on console screen." alt="" coords="5,5,115,32"/>
+</map>

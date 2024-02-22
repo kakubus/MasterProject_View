@@ -1,0 +1,8 @@
+<map id="Map::getNumberOfLocations" name="Map::getNumberOfLocations">
+<area shape="rect" id="node1" title=" " alt="" coords="527,72,714,99"/>
+<area shape="rect" id="node2" href="$class_algorithm.html#afc26b11dcdd38855ee8f6837150dad08" title="Method to generate initial solution." alt="" coords="314,5,478,48"/>
+<area shape="rect" id="node4" href="$class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Virtual method for any defined algorithm." alt="" coords="103,68,265,95"/>
+<area shape="rect" id="node6" href="$class_solution.html#ae3d62a6cb54f39b15d0e6a2ea4183385" title=" " alt="" coords="313,123,479,149"/>
+<area shape="rect" id="node3" href="$class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Virtual method for any defined algorithm." alt="" coords="124,13,244,40"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,68,55,95"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Solution::getPathDemand" name="Solution::getPathDemand">
+<area shape="rect" id="node1" title=" " alt="" coords="819,92,988,119"/>
+<area shape="rect" id="node2" href="$class_solution.html#a5876390dda973223f0751a1891ca652f" title=" " alt="" coords="567,84,771,127"/>
+<area shape="rect" id="node3" href="$class_algorithm.html#adfe38ce71bf95189479df08d16723e32" title="Solution quality validator." alt="" coords="333,34,499,60"/>
+<area shape="rect" id="node4" href="$class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Virtual method for any defined algorithm." alt="" coords="124,66,244,92"/>
+<area shape="rect" id="node5" href="$class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Virtual method for any defined algorithm." alt="" coords="103,120,265,147"/>
+<area shape="rect" id="node7" href="$class_algorithm.html#afc26b11dcdd38855ee8f6837150dad08" title="Method to generate initial solution." alt="" coords="334,84,498,127"/>
+<area shape="rect" id="node8" href="$class_algorithm.html#ae79ad39a81ac78f6b373628f65b91ef9" title="Method to generate new permutation of solution." alt="" coords="313,151,519,178"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,120,55,147"/>
+</map>

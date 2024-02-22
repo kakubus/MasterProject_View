@@ -1,0 +1,8 @@
+<map id="Solution::updateRoutesForSpecificLocations" name="Solution::updateRoutesForSpecificLocations">
+<area shape="rect" id="node1" title=" " alt="" coords="547,56,723,99"/>
+<area shape="rect" id="node2" href="$class_algorithm.html#afc26b11dcdd38855ee8f6837150dad08" title="Method to generate initial solution." alt="" coords="324,23,488,65"/>
+<area shape="rect" id="node6" href="$class_solution.html#a2415df21e6b22a5ae650eb364e545210" title=" " alt="" coords="313,89,499,132"/>
+<area shape="rect" id="node3" href="$class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Virtual method for any defined algorithm." alt="" coords="124,5,244,32"/>
+<area shape="rect" id="node4" href="$class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Virtual method for any defined algorithm." alt="" coords="103,56,265,83"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,55,83"/>
+</map>

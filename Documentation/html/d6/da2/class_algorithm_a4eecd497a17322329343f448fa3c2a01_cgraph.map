@@ -1,0 +1,16 @@
+<map id="Algorithm::modifySolution" name="Algorithm::modifySolution">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,175,159"/>
+<area shape="rect" id="node2" href="$dd/d4f/class_solution.html#a5876390dda973223f0751a1891ca652f" title=" " alt="" coords="223,7,426,49"/>
+<area shape="rect" id="node4" href="$dd/d4f/class_solution.html#af88436f16cab8fda714a576e20e8b20b" title=" " alt="" coords="233,107,416,133"/>
+<area shape="rect" id="node5" href="$d6/da2/class_algorithm.html#aadce8ea3c019752e6349c56848efaae4" title=" " alt="" coords="263,157,386,184"/>
+<area shape="rect" id="node14" href="$dd/d4f/class_solution.html#aec5b271d8f0331b173a8b143599331a1" title="Method to recalculate totalCost and change all routesInSolutions based on locationsInSolution." alt="" coords="231,232,418,275"/>
+<area shape="rect" id="node3" href="$dd/d4f/class_solution.html#adbc8df4e744650da710e45397e4d42cb" title=" " alt="" coords="500,5,669,32"/>
+<area shape="rect" id="node6" href="$dd/df6/class_vehicle.html#a9943ca3098e7993a3c46a3e75a39610b" title="Return actual capacity of vehicle." alt="" coords="514,56,655,83"/>
+<area shape="rect" id="node7" href="$dd/df6/class_vehicle.html#a7e388649af7dc8e07f707a4462126f5b" title=" " alt="" coords="534,107,634,133"/>
+<area shape="rect" id="node8" href="$dd/d4f/class_solution.html#a9767aa5e9b2e0e0ce01b9c895d404a29" title=" " alt="" coords="481,157,687,184"/>
+<area shape="rect" id="node10" href="$d2/d9a/struct_method_result.html#a29229b072df488c4adeb16b5962706c4" title=" " alt="" coords="521,208,647,235"/>
+<area shape="rect" id="node11" href="$d6/da2/class_algorithm.html#af07180f5b1519259816757e6a6abfd0c" title=" " alt="" coords="474,283,694,309"/>
+<area shape="rect" id="node12" href="$d6/da2/class_algorithm.html#ad2ee4e687468c2fcbd3c01f465469aa4" title="Function used for exchange, swap and move methods." alt="" coords="477,333,691,360"/>
+<area shape="rect" id="node9" href="$da/d87/class_problem.html#a848e86855449e8d567edc48f5a793dbc" title="Method used for return pointer to existing vehicle list." alt="" coords="742,220,902,247"/>
+<area shape="rect" id="node13" href="$dc/db8/_utils_fcn_8cpp.html#a2bfdea9260301d9292a7ab002eeb4645" title=" " alt="" coords="783,333,861,360"/>
+</map>

@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<map id="D:/Git/MasterProject/Program/Master/Master/Vehicle.h" name="D:/Git/MasterProject/Program/Master/Master/Vehicle.h">
+<area shape="rect" id="node1" title="Class with definition vehicles. Contains capacities, fuel consumption etc." alt="" coords="95,5,257,64"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,112,77,139"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,112,168,139"/>
+<area shape="rect" id="node4" title=" " alt="" coords="192,112,245,139"/>
+<area shape="rect" id="node5" title=" " alt="" coords="270,112,338,139"/>
+=======
+<map id="D:/Git/MasterProject/Program/M2/M2/Vehicle.h" name="D:/Git/MasterProject/Program/M2/M2/Vehicle.h">
+<area shape="rect" id="node1" title="Class with definition vehicles. Contains capacities, fuel consumption etc." alt="" coords="88,5,264,48"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,96,77,123"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,96,168,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="192,96,245,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="270,96,338,123"/>
+>>>>>>> 4cbca96ee5a599b7e19631f35f883352d8c03713
+</map>

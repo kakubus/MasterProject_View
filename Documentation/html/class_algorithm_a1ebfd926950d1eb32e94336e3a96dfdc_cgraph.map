@@ -1,0 +1,12 @@
+<map id="Algorithm::move" name="Algorithm::move">
+<area shape="rect" id="node1" title="Method used for move vertices in solution." alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node2" href="$class_algorithm.html#af07180f5b1519259816757e6a6abfd0c" title=" " alt="" coords="168,29,388,56"/>
+<area shape="rect" id="node3" href="$class_algorithm.html#ad2ee4e687468c2fcbd3c01f465469aa4" title="Function used for exchange, swap and move methods." alt="" coords="171,80,385,107"/>
+<area shape="rect" id="node6" href="$class_vehicle.html#a9037a9de516f8271b33135f786647192" title=" " alt="" coords="175,181,381,208"/>
+<area shape="rect" id="node4" href="$class_problem.html#a848e86855449e8d567edc48f5a793dbc" title=" " alt="" coords="436,29,595,56"/>
+<area shape="rect" id="node5" href="$_utils_fcn_8cpp.html#a2bfdea9260301d9292a7ab002eeb4645" title=" " alt="" coords="477,80,555,107"/>
+<area shape="rect" id="node7" href="$class_vehicle.html#a9943ca3098e7993a3c46a3e75a39610b" title="Return actual capacity of vehicle." alt="" coords="445,131,586,157"/>
+<area shape="rect" id="node8" href="$class_vehicle.html#add3c94e41b8d7708872af9487ab5a0e9" title="Set defined value of actual vehicle capacity." alt="" coords="445,181,586,208"/>
+<area shape="rect" id="node9" href="$class_vehicle.html#aba606f5a1911e4bdce1ab895280ddb29" title="Try take a load into vehicle (if it&#39;s impossible, return false)" alt="" coords="453,232,578,259"/>
+<area shape="rect" id="node10" href="$class_vehicle.html#a8905b634f2ece5152560d049d5a1084a" title="Make free vehicle capacity (capacity = 0)" alt="" coords="461,283,571,309"/>
+</map>

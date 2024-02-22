@@ -1,0 +1,15 @@
+<map id="randomInt" name="randomInt">
+<area shape="rect" id="node1" title=" " alt="" coords="800,107,878,133"/>
+<area shape="rect" id="node2" href="$d6/da2/class_algorithm.html#a0f4aeacfbebec1f01d72ceb0c98afe2a" title=" " alt="" coords="531,81,752,108"/>
+<area shape="rect" id="node3" href="$d6/da2/class_algorithm.html#ad2ee4e687468c2fcbd3c01f465469aa4" title="Function used for exchange, swap and move methods." alt="" coords="534,132,749,159"/>
+<area shape="rect" id="node4" href="$d6/da2/class_algorithm.html#ac7f2a89c288fad937cefe7da48e1f00b" title="Method used for exchange vertices in solution." alt="" coords="328,5,468,32"/>
+<area shape="rect" id="node6" href="$d6/da2/class_algorithm.html#aadce8ea3c019752e6349c56848efaae4" title="Modify solution. &#45; used in SA." alt="" coords="337,56,459,83"/>
+<area shape="rect" id="node7" href="$d9/db2/class_tabu_search.html#adf2db571269d3307ba9ce78c406043ce" title="Method to find best solution from generated neighborhood for Tabu Search." alt="" coords="313,107,483,133"/>
+<area shape="rect" id="node10" href="$d6/da2/class_algorithm.html#a1ebfd926950d1eb32e94336e3a96dfdc" title="Method used for move vertices in solution." alt="" coords="341,157,455,184"/>
+<area shape="rect" id="node11" href="$d6/da2/class_algorithm.html#a986ea668233ae9391ac6f43ca31c7362" title="Randomized generation of new solution." alt="" coords="319,208,478,235"/>
+<area shape="rect" id="node13" href="$d6/da2/class_algorithm.html#a0a99ff41ae6c267f6a21d4ade1a0cc6c" title="Method used for swap vertices in solution." alt="" coords="341,259,455,285"/>
+<area shape="rect" id="node5" href="$d6/da2/class_algorithm.html#aef48b439544dcac531bb3b52772e3bd2" title="Modify solution. &#45; used in TS." alt="" coords="123,5,245,32"/>
+<area shape="rect" id="node8" href="$d9/db2/class_tabu_search.html#a44d766d6285b7da36fb20c4d77b18a01" title="Main algorithm loop." alt="" coords="126,132,242,159"/>
+<area shape="rect" id="node9" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,169,55,196"/>
+<area shape="rect" id="node12" href="$dd/d9e/class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Main method of execution algorithm." alt="" coords="103,195,265,221"/>
+</map>

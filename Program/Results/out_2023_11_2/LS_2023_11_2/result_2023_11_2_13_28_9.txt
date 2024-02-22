@@ -1,0 +1,63 @@
+Local Search algorithm
+--------------------------------
+ Nodes: 51 Edges: 2550
+ Total demand of nodes: 684
+ Vehicle max capacity:  100
+--------------------------------
+
+
+
+Initial solution:
+
+V[03]:	  0   44   13    9   26   22   35   0 
+V[01]:	  0   14   39   36    5   12   38   48    1   43   0 
+V[07]:	  0   18    7   40   30   17   0 
+V[05]:	  0   16   31   32   37    8   24   21   0 
+V[02]:	  0    6   15   46   27   29   23   25   50   28   0 
+V[04]:	  0   49   10   42   11   41   34    2   0 
+V[06]:	  0   45   33   47   20    3   19    4   0 
+
+
+
+End solution:
+
+V[03]:	  0   35    1    9   20   44   21   0 
+V[01]:	  0    5   36   40   38   29   43   26   27    8   0 
+V[07]:	  0   18   14   28    7    6   0 
+V[05]:	  0   41   31   12   37   32   46   22   25   0 
+V[02]:	  0   49   30   17   10   39   50   23   15   0 
+V[04]:	  0   11    4   42   13   34    2   16   0 
+V[06]:	  0   24   47   45   33   19    3   48   0 
+
+INITIAL TOTAL COST: 4403.06
+END TOTAL COST: 2704.88
+
+Profit: 1698.18
+Profit [%]: 38.5681
+
+
+Solutions finding history:
+
+Solution OK:	67
+Non_Profit:	0
+  Accepted:	0
+Overload:	0
+Exceptions:	0
+
+FOUND BEST:
+
+V[03]:	 0  35   1   9  20  44  21  0 
+V[01]:	 0   5  36  40  38  29  43  26  27   8  0 
+V[07]:	 0  18  14  28   7   6  0 
+V[05]:	 0  41  31  12  37  32  46  22  25  0 
+V[02]:	 0  49  30  17  10  39  23  50  15  0 
+V[04]:	 0  11   4  42  13  34   2  16  0 
+V[06]:	 0  24  47  45  33  19   3  48  0 
+
+
+
+BEST SOLUTION COST:	2704.88	 found at: 6.359 s
+Best Profit: 		1698.18
+Best Profit [%]:	38.5681%
+
+Validation best solution:	OK

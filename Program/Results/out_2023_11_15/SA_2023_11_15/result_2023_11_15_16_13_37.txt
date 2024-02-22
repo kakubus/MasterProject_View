@@ -1,0 +1,67 @@
+Simulated annealing algorithm
+--------------------------------
+ Nodes: 51 Edges: 2550
+ Total demand of nodes: 684
+ Vehicle max capacity:  100
+--------------------------------
+Algorithm parameters: 
+ Alpha: 0.9 tMax: 100 tEnd: 0.1
+ Iterations limit: 100
+
+
+Initial solution:
+
+V[04]:	  0   21   28   25    1    2   34   26   19   0 
+V[06]:	  0    3   33    6   50   35    8   27   0 
+V[05]:	  0   11   32   14   18   0 
+V[02]:	  0   43   45   16   39   22   38   37   10   13    4   0 
+V[01]:	  0    7   40   30   48   49   20   31   36   0 
+V[07]:	  0   12   46   44   42   47   15   0 
+V[03]:	  0    9   29   17   24    5   23   41   0 
+
+
+
+End solution:
+
+V[04]:	  0   39    2   38   34   24   30   45   0 
+V[06]:	  0   35    3   19   33   48    6    7   0 
+V[05]:	  0   18    4   26   43   11   0 
+V[02]:	  0   25   22   46   10   16   29   13   42   28   0 
+V[01]:	  0    5   36   40   17   47   23   15   50   0 
+V[07]:	  0   41   31   37   32   14   21   44   0 
+V[03]:	  0   27   12    8   20   49    9    1   0 
+
+INITIAL TOTAL COST: 4784.7
+END TOTAL COST: 2770.28
+
+Profit: 2014.43
+Profit [%]: 42.1014
+
+
+Solutions finding history:
+
+Solution OK:	1274
+Non_Profit:	2270
+  Accepted:	953
+Overload:	407
+Exceptions:	0
+
+FOUND BEST::
+
+V[04]:	 0  39   2  38  34  24  30  45  0 
+V[06]:	 0  35   3  19  33  48   6   7  0 
+V[05]:	 0  18   4  26  43  11  0 
+V[02]:	 0  25  46  22  10  16  29  13  42  28  0 
+V[01]:	 0   5  36  40  17  47  23  15  50  0 
+V[07]:	 0  41  31  37  32  14  21  44  0 
+V[03]:	 0  27  12   8   1   9  49  20  0 
+
+
+
+BEST SOLUTION COST:	2769.96	 found at: 62.286 s
+Best Profit: 		2014.74
+Best Profit [%]:	42.108%
+
+Validation best solution:	OK
+Generation time: 76.212 s
+

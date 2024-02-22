@@ -1,0 +1,11 @@
+<map id="Vehicle::takeLoad" name="Vehicle::takeLoad">
+<area shape="rect" id="node1" title="Try take a load into vehicle (if it&#39;s impossible, return false)" alt="" coords="983,39,1108,65"/>
+<area shape="rect" id="node2" href="$class_algorithm.html#afc26b11dcdd38855ee8f6837150dad08" title="Method to generate initial solution." alt="" coords="334,5,498,48"/>
+<area shape="rect" id="node6" href="$class_vehicle.html#a9037a9de516f8271b33135f786647192" title=" " alt="" coords="730,64,935,91"/>
+<area shape="rect" id="node3" href="$class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Virtual method for any defined algorithm." alt="" coords="124,16,244,43"/>
+<area shape="rect" id="node4" href="$class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Virtual method for any defined algorithm." alt="" coords="103,68,265,95"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,68,55,95"/>
+<area shape="rect" id="node7" href="$class_algorithm.html#a1ebfd926950d1eb32e94336e3a96dfdc" title="Method used for move vertices in solution." alt="" coords="567,64,682,91"/>
+<area shape="rect" id="node9" href="$class_algorithm.html#a0a99ff41ae6c267f6a21d4ade1a0cc6c" title="Method used for swap vertices in solution." alt="" coords="567,115,682,141"/>
+<area shape="rect" id="node8" href="$class_algorithm.html#ae79ad39a81ac78f6b373628f65b91ef9" title="Method to generate new permutation of solution." alt="" coords="313,72,519,99"/>
+</map>

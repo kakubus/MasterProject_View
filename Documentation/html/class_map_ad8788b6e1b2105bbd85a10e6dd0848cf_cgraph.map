@@ -1,0 +1,8 @@
+<map id="Map::showMap" name="Map::showMap">
+<<<<<<< HEAD
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,115,32"/>
+=======
+<area shape="rect" id="node1" title="Returns information about map." alt="" coords="5,5,115,32"/>
+>>>>>>> 4cbca96ee5a599b7e19631f35f883352d8c03713
+<area shape="rect" id="node2" href="$class_client.html#ae49da3d4b0718eec9d03d6b58b22aa33" title=" " alt="" coords="163,5,285,32"/>
+</map>

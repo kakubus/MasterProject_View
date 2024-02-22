@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+<map id="D:/Git/MasterProject/Program/Master/Master/Client.h" name="D:/Git/MasterProject/Program/Master/Master/Client.h">
+<area shape="rect" id="node1" title="Class with definitions of verticles &#45; Clients. Contains cargo demand for VRP problem." alt="" coords="139,5,301,64"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,112,77,139"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,112,169,139"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,112,246,139"/>
+<area shape="rect" id="node5" title=" " alt="" coords="270,112,324,139"/>
+<area shape="rect" id="node6" title=" " alt="" coords="348,112,414,139"/>
+=======
+<map id="D:/Git/MasterProject/Program/M2/M2/Client.h" name="D:/Git/MasterProject/Program/M2/M2/Client.h">
+<area shape="rect" id="node1" title="Class with definitions of verticles &#45; Clients. Contains cargo demand for VRP problem." alt="" coords="137,5,303,48"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,96,77,123"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,96,169,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,96,246,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="270,96,324,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="348,96,414,123"/>
+>>>>>>> 4cbca96ee5a599b7e19631f35f883352d8c03713
+</map>

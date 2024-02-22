@@ -1,0 +1,12 @@
+<map id="randomInt" name="randomInt">
+<area shape="rect" id="node1" title=" " alt="" coords="1024,31,1102,57"/>
+<area shape="rect" id="node2" href="$class_algorithm.html#a0f4aeacfbebec1f01d72ceb0c98afe2a" title=" " alt="" coords="756,5,976,32"/>
+<area shape="rect" id="node3" href="$class_algorithm.html#ad2ee4e687468c2fcbd3c01f465469aa4" title="Function used for exchange, swap and move methods." alt="" coords="759,56,973,83"/>
+<area shape="rect" id="node4" href="$class_algorithm.html#ac7f2a89c288fad937cefe7da48e1f00b" title="Method used for exchange vertices in solution." alt="" coords="567,5,708,32"/>
+<area shape="rect" id="node9" href="$class_algorithm.html#a1ebfd926950d1eb32e94336e3a96dfdc" title="Method used for move vertices in solution." alt="" coords="580,56,695,83"/>
+<area shape="rect" id="node10" href="$class_algorithm.html#a0a99ff41ae6c267f6a21d4ade1a0cc6c" title="Method used for swap vertices in solution." alt="" coords="580,107,695,133"/>
+<area shape="rect" id="node5" href="$class_algorithm.html#ae79ad39a81ac78f6b373628f65b91ef9" title="Method to generate new permutation of solution." alt="" coords="313,56,519,83"/>
+<area shape="rect" id="node6" href="$class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Virtual method for any defined algorithm." alt="" coords="124,31,244,57"/>
+<area shape="rect" id="node7" href="$class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Virtual method for any defined algorithm." alt="" coords="103,81,265,108"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,81,55,108"/>
+</map>

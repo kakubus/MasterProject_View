@@ -1,0 +1,16 @@
+<map id="Client::getId" name="Client::getId">
+<area shape="rect" id="node1" title=" " alt="" coords="711,271,801,297"/>
+<area shape="rect" id="node2" href="$d6/da2/class_algorithm.html#adcc820f3e6df412a551b0a0cec0a94db" title="Method used for generate new solution in LS and TS algorithms." alt="" coords="315,5,481,32"/>
+<area shape="rect" id="node5" href="$d9/db2/class_tabu_search.html#adf2db571269d3307ba9ce78c406043ce" title="Method to find best solution from generated neighborhood for Tabu Search." alt="" coords="313,376,483,403"/>
+<area shape="rect" id="node7" href="$d6/da2/class_algorithm.html#a986ea668233ae9391ac6f43ca31c7362" title="Randomized generation of new solution." alt="" coords="319,325,478,352"/>
+<area shape="rect" id="node9" href="$da/d87/class_problem.html#a73b272d737158e41dd2ead8e9be6f5ca" title="Print solutions of problem. Returns stream to save to file." alt="" coords="345,107,452,133"/>
+<area shape="rect" id="node10" href="$dd/d4f/class_solution.html#a57959b998bc081fb3258d1583f791d02" title=" " alt="" coords="544,195,650,221"/>
+<area shape="rect" id="node12" href="$df/da1/struct_location.html#abf9047718511aeea0553e136a9b8dc0c" title=" " alt="" coords="543,347,651,373"/>
+<area shape="rect" id="node13" href="$de/d88/struct_route.html#a4fdd22feb89ddea349d308a4e17a53ec" title=" " alt="" coords="550,397,644,424"/>
+<area shape="rect" id="node14" href="$dd/d4f/class_solution.html#a09db4dcaa5a6bf1a31961ab26b68656d" title=" " alt="" coords="531,448,663,475"/>
+<area shape="rect" id="node3" href="$df/dc8/class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Main method of execution algorithm." alt="" coords="124,107,244,133"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,165,55,192"/>
+<area shape="rect" id="node6" href="$d9/db2/class_tabu_search.html#a44d766d6285b7da36fb20c4d77b18a01" title="Main algorithm loop." alt="" coords="126,216,242,243"/>
+<area shape="rect" id="node8" href="$dd/d9e/class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Main method of execution algorithm." alt="" coords="103,165,265,192"/>
+<area shape="rect" id="node11" href="$d6/da2/class_algorithm.html#afc26b11dcdd38855ee8f6837150dad08" title="Method to generate initial solution." alt="" coords="316,157,480,200"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="D:/Git/MasterProject/Program/M2/M2/Algorithm.h" name="D:/Git/MasterProject/Program/M2/M2/Algorithm.h">
+<area shape="rect" id="node1" title="General class contains methods used in any implemented algorithm." alt="" coords="366,5,554,48"/>
+<area shape="rect" id="node2" href="$_algorithm_8cpp.html" title=" " alt="" coords="5,96,208,139"/>
+<area shape="rect" id="node3" href="$_local_search_8h.html" title="Class for Local search algorithm implementation." alt="" coords="232,96,437,139"/>
+<area shape="rect" id="node6" href="$_simulated_annealing_8h.html" title="Class for Simulated annealing algorithm implementation." alt="" coords="461,96,709,139"/>
+<area shape="rect" id="node8" href="$_tabu_search_8h.html" title=" " alt="" coords="741,96,944,139"/>
+<area shape="rect" id="node4" href="$_local_search_8cpp.html" title=" " alt="" coords="12,187,231,229"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="255,187,430,229"/>
+<area shape="rect" id="node7" href="$_simulated_annealing_8cpp.html" title=" " alt="" coords="454,187,716,229"/>
+<area shape="rect" id="node9" href="$_tabu_search_8cpp.html" title=" " alt="" coords="741,187,957,229"/>
+</map>

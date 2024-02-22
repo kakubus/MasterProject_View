@@ -1,0 +1,7 @@
+<map id="Vehicle::reloadDemandBetween" name="Vehicle::reloadDemandBetween">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,211,108"/>
+<area shape="rect" id="node2" href="$class_vehicle.html#a9943ca3098e7993a3c46a3e75a39610b" title="Return actual capacity of vehicle." alt="" coords="259,5,400,32"/>
+<area shape="rect" id="node3" href="$class_vehicle.html#add3c94e41b8d7708872af9487ab5a0e9" title="Set defined value of actual vehicle capacity." alt="" coords="259,56,400,83"/>
+<area shape="rect" id="node4" href="$class_vehicle.html#aba606f5a1911e4bdce1ab895280ddb29" title="Try take a load into vehicle (if it&#39;s impossible, return false)" alt="" coords="267,107,392,133"/>
+<area shape="rect" id="node5" href="$class_vehicle.html#a8905b634f2ece5152560d049d5a1084a" title="Make free vehicle capacity (capacity = 0)" alt="" coords="274,157,385,184"/>
+</map>

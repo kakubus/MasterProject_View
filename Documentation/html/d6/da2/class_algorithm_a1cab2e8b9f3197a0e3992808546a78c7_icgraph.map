@@ -1,0 +1,10 @@
+<map id="Algorithm::swap" name="Algorithm::swap">
+<area shape="rect" id="node1" title="Method used for exchange vertices in solution." alt="" coords="531,56,646,83"/>
+<area shape="rect" id="node2" href="$d6/da2/class_algorithm.html#adcc820f3e6df412a551b0a0cec0a94db" title="Method used for generate new solution in LS and TS algorithms." alt="" coords="315,5,481,32"/>
+<area shape="rect" id="node5" href="$d9/db2/class_tabu_search.html#adf2db571269d3307ba9ce78c406043ce" title="Method to find best solution from generated neighborhood for Tabu Search." alt="" coords="313,56,483,83"/>
+<area shape="rect" id="node7" href="$d6/da2/class_algorithm.html#a986ea668233ae9391ac6f43ca31c7362" title="Randomized generation of new solution." alt="" coords="319,107,478,133"/>
+<area shape="rect" id="node3" href="$df/dc8/class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Main method of execution algorithm." alt="" coords="124,5,244,32"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,56,55,83"/>
+<area shape="rect" id="node6" href="$d9/db2/class_tabu_search.html#a44d766d6285b7da36fb20c4d77b18a01" title="Main algorithm loop." alt="" coords="126,56,242,83"/>
+<area shape="rect" id="node8" href="$dd/d9e/class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Main method of execution algorithm." alt="" coords="103,107,265,133"/>
+</map>

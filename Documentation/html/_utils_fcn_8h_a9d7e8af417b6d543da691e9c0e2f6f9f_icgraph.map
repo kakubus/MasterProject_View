@@ -1,0 +1,11 @@
+<map id="clearScreen" name="clearScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="567,115,658,142"/>
+<area shape="rect" id="node2" href="$class_algorithm.html#adfe38ce71bf95189479df08d16723e32" title="Solution quality validator." alt="" coords="333,39,499,66"/>
+<area shape="rect" id="node3" href="$class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Virtual method for any defined algorithm." alt="" coords="124,39,244,66"/>
+<area shape="rect" id="node4" href="$class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Virtual method for any defined algorithm." alt="" coords="103,90,265,116"/>
+<area shape="rect" id="node6" href="$class_algorithm.html#ae79ad39a81ac78f6b373628f65b91ef9" title="Method to generate new permutation of solution." alt="" coords="313,90,519,116"/>
+<area shape="rect" id="node7" href="$class_file_i_o.html#adcdfbdb51af45f90b2affcd636c619fd" title=" " alt="" coords="342,191,490,218"/>
+<area shape="rect" id="node9" href="$class_file_i_o.html#a8c9321c1972c63d38fc9c40c2ac34451" title=" " alt="" coords="335,242,498,268"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,90,55,116"/>
+<area shape="rect" id="node8" href="$class_problem.html#a921e02f2b72c1682a862391e4a2e58f9" title=" " alt="" coords="121,216,247,243"/>
+</map>

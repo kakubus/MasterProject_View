@@ -1,0 +1,27 @@
+<map id="D:/Git/MasterProject/Program/M2/M2/SimulatedAnnealing.h" name="D:/Git/MasterProject/Program/M2/M2/SimulatedAnnealing.h">
+<area shape="rect" id="node1" title="Class for Simulated annealing algorithm implementation." alt="" coords="415,5,663,48"/>
+<area shape="rect" id="node2" title=" " alt="" coords="460,171,524,197"/>
+<area shape="rect" id="node3" href="$d8/dda/_algorithm_8h.html" title="General class contains methods used in any implemented algorithm." alt="" coords="540,96,628,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="652,171,764,197"/>
+<area shape="rect" id="node5" href="$d5/dc7/_problem_8h.html" title="Class defined problem to solve for algorithms." alt="" coords="548,171,628,197"/>
+<area shape="rect" id="node6" title=" " alt="" coords="24,560,91,587"/>
+<area shape="rect" id="node7" href="$d7/d92/_file_i_o_8h.html" title="Class with import/export data operations on files." alt="" coords="555,245,621,272"/>
+<area shape="rect" id="node13" href="$d3/d63/_map_8h.html" title="Class describes graphs and connecting with Locations, Routes and graph from boost::adjacency_list." alt="" coords="267,320,325,347"/>
+<area shape="rect" id="node23" href="$d5/d5b/_solution_8h.html" title="Class describes solution returned by algorithm. Class contains definition of paths for the vehicles." alt="" coords="775,245,854,272"/>
+<area shape="rect" id="node8" title=" " alt="" coords="338,560,409,587"/>
+<area shape="rect" id="node9" title=" " alt="" coords="508,320,572,347"/>
+<area shape="rect" id="node10" title=" " alt="" coords="596,320,676,347"/>
+<area shape="rect" id="node11" title=" " alt="" coords="636,560,689,587"/>
+<area shape="rect" id="node12" title=" " alt="" coords="348,320,484,347"/>
+<area shape="rect" id="node14" title=" " alt="" coords="159,403,212,429"/>
+<area shape="rect" id="node15" title=" " alt="" coords="236,403,311,429"/>
+<area shape="rect" id="node16" title=" " alt="" coords="335,395,487,437"/>
+<area shape="rect" id="node17" title=" " alt="" coords="511,403,676,429"/>
+<area shape="rect" id="node18" href="$d8/de4/_structures_8h.html" title="Header file storages definition of Location and Route struct." alt="" coords="43,403,136,429"/>
+<area shape="rect" id="node19" href="$d1/d44/_client_8h.html" title="Class with definitions of verticles &#45; Clients. Contains cargo demand for VRP problem." alt="" coords="202,485,267,512"/>
+<area shape="rect" id="node22" href="$df/d90/_vehicle_8h.html" title="Class with definition vehicles. Contains capacities, fuel consumption etc." alt="" coords="102,485,178,512"/>
+<area shape="rect" id="node20" title=" " alt="" coords="115,560,184,587"/>
+<area shape="rect" id="node21" title=" " alt="" coords="208,560,261,587"/>
+<area shape="rect" id="node24" title=" " alt="" coords="852,320,898,347"/>
+<area shape="rect" id="node25" title=" " alt="" coords="922,320,977,347"/>
+</map>

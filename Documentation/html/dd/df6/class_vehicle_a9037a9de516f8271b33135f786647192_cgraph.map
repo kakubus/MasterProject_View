@@ -1,0 +1,8 @@
+<map id="Vehicle::reloadDemandBetween" name="Vehicle::reloadDemandBetween">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,211,133"/>
+<area shape="rect" id="node2" href="$dd/df6/class_vehicle.html#a9943ca3098e7993a3c46a3e75a39610b" title="Return actual capacity of vehicle." alt="" coords="287,5,429,32"/>
+<area shape="rect" id="node3" href="$dd/df6/class_vehicle.html#a981322b4fc2ba14586b45e03115491c0" title="Return property of vehicle maximum capacity." alt="" coords="259,56,457,83"/>
+<area shape="rect" id="node4" href="$dd/df6/class_vehicle.html#add3c94e41b8d7708872af9487ab5a0e9" title="Set defined value of actual vehicle capacity." alt="" coords="287,107,429,133"/>
+<area shape="rect" id="node5" href="$dd/df6/class_vehicle.html#aba606f5a1911e4bdce1ab895280ddb29" title="Try take a load into vehicle (if it&#39;s impossible, return false)" alt="" coords="295,157,421,184"/>
+<area shape="rect" id="node6" href="$dd/df6/class_vehicle.html#a8905b634f2ece5152560d049d5a1084a" title="Make free vehicle capacity (capacity = 0)" alt="" coords="303,208,413,235"/>
+</map>

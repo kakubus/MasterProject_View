@@ -1,0 +1,20 @@
+<map id="Problem::getVehicleList" name="Problem::getVehicleList">
+<area shape="rect" id="node1" title="Method used for return pointer to existing vehicle list." alt="" coords="823,203,982,229"/>
+<area shape="rect" id="node2" href="$d6/da2/class_algorithm.html#afbd51eac38c7291d637e7042cde039e1" title="Algorithm can solve a problem." alt="" coords="598,63,737,89"/>
+<area shape="rect" id="node3" href="$d6/da2/class_algorithm.html#afc26b11dcdd38855ee8f6837150dad08" title="Method to generate initial solution." alt="" coords="331,5,495,48"/>
+<area shape="rect" id="node8" href="$dd/d4f/class_solution.html#a9767aa5e9b2e0e0ce01b9c895d404a29" title=" " alt="" coords="564,164,771,191"/>
+<area shape="rect" id="node11" href="$d6/da2/class_algorithm.html#aef48b439544dcac531bb3b52772e3bd2" title="Modify solution. &#45; used in TS." alt="" coords="123,417,245,444"/>
+<area shape="rect" id="node12" href="$d6/da2/class_algorithm.html#ad2ee4e687468c2fcbd3c01f465469aa4" title="Function used for exchange, swap and move methods." alt="" coords="560,240,775,267"/>
+<area shape="rect" id="node18" href="$dd/d9e/class_simulated_annealing.html#ab594d8dd413eccadf4193f929f4e586b" title=" " alt="" coords="595,493,740,536"/>
+<area shape="rect" id="node4" href="$df/dc8/class_local_search.html#aa8151e6e21d67ba4cbabf833848b3ff8" title="Main method of execution algorithm." alt="" coords="124,13,244,40"/>
+<area shape="rect" id="node6" href="$dd/d9e/class_simulated_annealing.html#a316ca883000f26213f85a22090cc8c37" title="Main method of execution algorithm." alt="" coords="103,115,265,141"/>
+<area shape="rect" id="node7" href="$d9/db2/class_tabu_search.html#a44d766d6285b7da36fb20c4d77b18a01" title="Main algorithm loop." alt="" coords="126,64,242,91"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,64,55,91"/>
+<area shape="rect" id="node9" href="$dd/d4f/class_solution.html#a4dd93a1f9f765a2a6cd2938f84018738" title=" " alt="" coords="313,72,512,115"/>
+<area shape="rect" id="node10" href="$d6/da2/class_algorithm.html#aadce8ea3c019752e6349c56848efaae4" title="Modify solution. &#45; used in SA." alt="" coords="352,139,474,165"/>
+<area shape="rect" id="node13" href="$d6/da2/class_algorithm.html#ac7f2a89c288fad937cefe7da48e1f00b" title="Method used for exchange vertices in solution." alt="" coords="343,392,483,419"/>
+<area shape="rect" id="node14" href="$d9/db2/class_tabu_search.html#adf2db571269d3307ba9ce78c406043ce" title="Method to find best solution from generated neighborhood for Tabu Search." alt="" coords="328,291,498,317"/>
+<area shape="rect" id="node15" href="$d6/da2/class_algorithm.html#a1ebfd926950d1eb32e94336e3a96dfdc" title="Method used for move vertices in solution." alt="" coords="356,189,470,216"/>
+<area shape="rect" id="node16" href="$d6/da2/class_algorithm.html#a986ea668233ae9391ac6f43ca31c7362" title="Randomized generation of new solution." alt="" coords="333,341,492,368"/>
+<area shape="rect" id="node17" href="$d6/da2/class_algorithm.html#a0a99ff41ae6c267f6a21d4ade1a0cc6c" title="Method used for swap vertices in solution." alt="" coords="356,240,470,267"/>
+</map>

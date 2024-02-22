@@ -1,0 +1,10 @@
+<map id="Location" name="Location">
+<<<<<<< HEAD
+<area shape="rect" id="node1" title="V &#45; verticles. Definition of graph nodes." alt="" coords="97,295,201,392"/>
+<area shape="rect" id="node2" href="$class_client.html" title=" " alt="" coords="5,5,136,231"/>
+<area shape="rect" id="node3" href="$class_company_h_q.html" title=" " alt="" coords="160,37,296,199"/>
+=======
+<area shape="rect" id="node1" title="E &#45; edges. Definition of graph edges." alt="" coords="5,391,162,584"/>
+<area shape="rect" id="node2" href="$class_client.html" title=" " alt="" coords="18,5,149,327"/>
+>>>>>>> 4cbca96ee5a599b7e19631f35f883352d8c03713
+</map>
